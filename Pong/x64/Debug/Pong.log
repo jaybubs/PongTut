@@ -1,0 +1,6 @@
+﻿  win32_platform.cpp
+C:\Programming\projects\Pong\Pong\Pong\renderer.cpp(72,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Programming\projects\Pong\Pong\Pong\renderer.cpp(73,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Programming\projects\Pong\Pong\Pong\renderer.cpp(74,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Programming\projects\Pong\Pong\Pong\renderer.cpp(75,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Pong.vcxproj -> C:\Programming\projects\Pong\Pong\x64\Debug\Pong.exe

@@ -1,0 +1,8 @@
+﻿  win32_platform.cpp
+C:\Programming\projects\Pong\Pong\Pong\renderer.cpp(72,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Programming\projects\Pong\Pong\Pong\renderer.cpp(73,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Programming\projects\Pong\Pong\Pong\renderer.cpp(74,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Programming\projects\Pong\Pong\Pong\renderer.cpp(75,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Programming\projects\Pong\Pong\Pong\win32_platform.cpp(58,5): warning C4007: 'WinMain': must be '__stdcall'
+MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol _main
+C:\Programming\projects\Pong\Pong\Release\Pong.exe : fatal error LNK1120: 1 unresolved externals
